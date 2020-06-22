@@ -2,6 +2,7 @@
   "name": "GoogleDNS_resolve",
   "version": "1.0.0",
   "author": "CERT-LaPoste",
+  "tags": [ "react.identification", "react.ra2104", "react.ra2105" ],
   "url": "https://github.com/TheHive-Project/Cortex-Analyzers",
   "license": "AGPL-V3",
   "description": "Request Google DNS over HTTPS service",

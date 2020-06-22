@@ -2,6 +2,15 @@
   "name": "CuckooSandbox_File_Analysis_Inet",
   "version": "1.2",
   "author": "Andrea Garavaglia, LDO-CERT",
+  "tags": [
+    "react.identification",
+    "react.ra2313",
+    "react.ra2316",
+    "react.ra2317",
+    "react.ra2318",
+    "react.ra2319",
+    "react.ra2315"
+  ],
   "url": "https://github.com/garanews/Cortex-Analyzers",
   "license": "AGPL-V3",
   "description": "Cuckoo Sandbox file analysis with Internet access.",

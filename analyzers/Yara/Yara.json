@@ -1,6 +1,15 @@
 {
   "name": "Yara",
   "author": "Nils Kuhnert, CERT-Bund",
+  "tags": [
+    "react.identification",
+    "react.ra2313",
+    "react.ra2314",
+    "react.ra2315",
+    "react.ra2316",
+    "react.ra2317",
+    "react.ra2319"
+  ],
   "license": "AGPL-V3",
   "url": "https://github.com/BSI-CERT-Bund/cortex-analyzers",
   "version": "2.0",

@@ -2,6 +2,10 @@
   "name": "Umbrella Blacklister",
   "version": "1.1",
   "author": "Kyle Parrish",
+  "tags": [
+    "react.containment",
+    "react.ra3103"
+  ],
   "url": "https://github.com/TheHive-Project/Cortex-Analyzers",
   "license": "AGPL-V3",
   "description": "Add domain to Umbrella blacklist via Enforcement API.",

@@ -2,6 +2,10 @@
   "name": "Nessus",
   "version": "2.0",
   "author": "Guillaume Rousse",
+  "tags": [
+    "react.identification",
+    "react.ra2002",
+  ],
   "url": "https://github.com/TheHive-Project/Cortex-Analyzers",
   "license": "AGPL-V3",
   "description": "Use Nessus Professional to scan hosts.",

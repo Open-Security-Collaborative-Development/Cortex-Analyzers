@@ -1,6 +1,7 @@
 {
   "name": "SinkDB",
   "author": "Nils Kuhnert, CERT-Bund",
+  "tags": [ "react.identification", "react.ra2105" ],
   "license": "AGPL-V3",
   "url": "https://github.com/BSI-CERT-Bund/sinkdb-analyzer",
   "version": "1.0",

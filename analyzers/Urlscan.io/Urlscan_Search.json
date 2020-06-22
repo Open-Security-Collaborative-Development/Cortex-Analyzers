@@ -1,6 +1,13 @@
 {
   "name": "Urlscan.io_Search",
   "author": "ninoseki, Kyle Parrish (@arnydo)",
+  "tags": [
+    "react.identification",
+    "react.ra2104",
+    "react.ra2105",
+    "react.ra2106",
+    "react.ra2312"
+  ],
   "license": "MIT",
   "url": "https://github.com/arnydo/Cortex-Analyzers",
   "version": "0.1.1",

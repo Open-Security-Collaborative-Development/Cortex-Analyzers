@@ -2,6 +2,7 @@
   "name": "PassiveTotal_Ssl_Certificate_History",
   "version": "2.0",
   "author": "CERT-BDF",
+  "tags": [ "react.identification", "react.ra2312", "react.ra2105" ],
   "url": "https://github.com/TheHive-Project/Cortex-Analyzers",
   "license": "AGPL-V3",
   "description": "PassiveTotal SSL Certificate History Lookup.",

@@ -2,6 +2,7 @@
     "name": "PhishTank_CheckURL",
     "version": "2.1",
     "author": "Eric Capuano",
+    "tags": [ "react.identification", "react.ra2106" ],
     "url": "https://github.com/TheHive-Project/Cortex-Analyzers",
     "license": "AGPL-V3",
     "description": "Use PhishTank to check if a URL is a verified phishing site.",

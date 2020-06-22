@@ -2,6 +2,13 @@
   "name": "MetaDefenderCore_Scan",
   "version": "1.0",
   "author": "Davide Arcuri and Andrea Garavaglia, LDO-CERT",
+  "tags": [
+    "react.identification",
+    "react.ra2313",
+    "react.ra2316",
+    "react.ra2319",
+    "react.ra2317"
+  ],
   "url": "https://github.com/TheHive-Project/Cortex-Analyzers",
   "license": "AGPL-V3",
   "description": "Scan a file with MetaDefender Core",

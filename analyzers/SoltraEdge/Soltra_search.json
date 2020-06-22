@@ -2,6 +2,17 @@
     "name": "SoltraEdge",
     "version": "1.0",
     "author": "Michael Stensrud, Nordic Financial CERT",
+    "tags": [
+      "react.identification",
+      "react.ra2104",
+      "react.ra2105",
+      "react.ra2106",
+      "react.ra2117",
+      "react.ra2206",
+      "react.ra2320",
+      "react.ra2508",
+      "react.ra2312"
+    ],
     "url": "http://soltra.com/en/",
     "license" : "AGPL-V3",
     "description": "Query against Soltra Edge.",

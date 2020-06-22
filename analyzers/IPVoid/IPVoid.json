@@ -2,6 +2,7 @@
     "name": "IPVoid",
     "version": "1.0",
     "author": "Joel Snape @ Nettitude",
+    "tags": [ "react.identification", "react.ra2105" ],
     "url": "https://github.com/TheHive-Project/Cortex-Analyzers",
     "license": "AGPL-v3",
     "description": "Determine whether an IP is present on any of the feeds consumed by IPVoid",

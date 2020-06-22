@@ -2,6 +2,7 @@
   "name": "EmailRep",
   "version": "1.0",
   "author": "Manabu Niseki",
+  "tags": [ "react.identification", "react.ra2206" ],
   "url": "https://github.com/ninoseki/emailrep-analyzer",
   "license": "MIT",
   "description": "emailrep.io lookup.",

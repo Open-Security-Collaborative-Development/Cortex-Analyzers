@@ -1,6 +1,7 @@
 {
     "name": "StopForumSpam",
     "author": "Marc-Andre Doll, STARC by EXAPROBE",
+    "tags": [ "react.identification", "react.ra2105", "react.ra2206" ],
     "license": "AGPL-V3",
     "url": "https://github.com/TheHive-Project/Cortex-Analyzers",
     "version": "1.0",

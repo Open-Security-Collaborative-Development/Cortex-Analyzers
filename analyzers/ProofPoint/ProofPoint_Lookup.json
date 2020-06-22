@@ -2,6 +2,7 @@
   "name": "ProofPoint_Lookup",
   "version": "1.0",
   "author": "Emmanuel Torquato",
+  "tags": [ "react.identification", "react.ra2106", "react.ra2312" ],
   "url": "https://github.com/CERT-BDF/Cortex-Analyzers",
   "license": "AGPL-V3",
   "description": "Check URL, file, SHA256 against ProofPoint forensics",

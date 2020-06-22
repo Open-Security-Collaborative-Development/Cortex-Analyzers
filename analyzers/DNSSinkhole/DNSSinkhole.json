@@ -1,6 +1,7 @@
 {
   "name": "DNSSinkhole",
   "author": "Andrea Garavaglia, LDO-CERT",
+  "tags": [ "react.identification", "react.ra2104" ],
   "license": "AGPL-V3",
   "url": "https://github.com/LDO-CERT/cortex-analyzer",
   "version": "1.0",

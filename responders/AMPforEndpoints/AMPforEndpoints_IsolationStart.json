@@ -2,6 +2,11 @@
   "name": "AMPforEndpoints_IsolationStart",
   "version": "1.0",
   "author": "Cisco Security",
+  "tags": [
+    "react.identification",
+    "react.ra3101",
+    "react.ra3102"
+  ],
   "url": "https://github.com/CiscoSecurity",
   "license": "MIT",
   "description": "Start host isolation for an AMP for Endpoints connector",

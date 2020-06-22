@@ -2,6 +2,7 @@
   "name": "JoeSandbox_Url_Analysis",
   "version": "2.0",
   "author": "CERT-BDF",
+  "tags": [ "react.identification", "react.ra2106" ],
   "url": "https://github.com/TheHive-Project/Cortex-Analyzers",
   "license": "AGPL-V3",
   "description": "Joe Sandbox URL analysis.",

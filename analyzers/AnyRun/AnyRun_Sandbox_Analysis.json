@@ -2,6 +2,15 @@
   "name": "AnyRun_Sandbox_Analysis",
   "version": "1.0",
   "author": "Andrea Garavaglia, Davide Arcuri, LDO-CERT",
+  "tags": [
+    "react.identification",
+    "react.ra2106",
+    "react.ra2313",
+    "react.ra2316",
+    "react.ra2317",
+    "react.ra2319",
+    "react.ra2318"
+  ],
   "url": "https://github.com/TheHive-Project/Cortex-Analyzers",
   "license": "AGPL-V3",
   "description": "Any.Run Sandbox file analysis",

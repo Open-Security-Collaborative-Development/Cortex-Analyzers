@@ -2,6 +2,7 @@
   "name": "HIBP_Query",
   "version": "2.0",
   "author": "Matt Erasmus, Jonas Hergenhahn",
+  "tags": [ "react.identification", "react.ra2206" ],
   "url": "https://github.com/TheHive-Project/Cortex-Analyzers",
   "license": "AGPL-V3",
   "description": "Query haveibeenpwned.com for a compromised email address",

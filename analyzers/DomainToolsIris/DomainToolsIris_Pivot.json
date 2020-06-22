@@ -2,6 +2,7 @@
   "name": "DomainToolsIris_Pivot",
   "version": "1.0",
   "author": "DomainTools",
+  "tags": [ "react.identification", "react.ra2105", "react.ra2206", "react.ra2312" ],
   "url": "https://github.com/TheHive-Project/Cortex-Analyzers",
   "license": "AGPL-V3",
   "description": "Use DomainTools Iris API to pivot on ssl_hash, ip, or email.",

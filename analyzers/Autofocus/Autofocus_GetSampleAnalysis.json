@@ -2,6 +2,7 @@
     "name": "Autofocus_GetSampleAnalysis",
     "version": "1.0",
     "author": "ANSSI",
+    "tags": [ "react.identification", "react.ra2312" ],
     "url": "https://github.com/TheHive-Project/Cortex-Analyzers",
     "license": "AGPL-V3",
     "baseConfig": "Autofocus",

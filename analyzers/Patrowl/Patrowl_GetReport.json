@@ -2,6 +2,7 @@
     "name": "Patrowl_GetReport",
     "version": "1.0",
     "author": "Nicolas Mattiocco",
+    "tags": [ "react.identification", "react.ra2104", "react.ra2105" ],
     "url": "https://github.com/TheHive-Project/Cortex-Analyzers",
     "license": "AGPL-V3",
     "description": "Get the current Patrowl report for a fdqn, a domain or an IP address.",

@@ -2,6 +2,7 @@
     "name": "BackscatterIO_Enrichment",
     "version": "1.0",
     "author": "brandon@backscatter.io",
+    "tags": [ "react.identification", "react.ra2105" ],
     "url": "https://github.com/TheHive-Project/Cortex-Analyzers",
     "license": "APLv2",
     "description": "Enrich values using Backscatter.io data.",

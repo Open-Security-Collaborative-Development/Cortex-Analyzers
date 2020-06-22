@@ -2,6 +2,7 @@
   "name": "Investigate_Sample",
   "version": "1.0",
   "author": "Cisco Umbrella Research @opendns",
+  "tags": [ "react.identification", "react.ra2312" ],
   "url": "https://github.com/TheHive-Project/Cortex-Analyzers/Investigate",
   "license": "AGPL-V3",
   "description": "Retrieve sample data from Investigate for a hash. (Sample data provided by ThreatGrid)",

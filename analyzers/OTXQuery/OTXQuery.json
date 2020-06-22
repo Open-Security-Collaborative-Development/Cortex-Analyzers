@@ -2,6 +2,13 @@
   "name": "OTXQuery",
   "version": "2.0",
   "author": "Eric Capuano",
+  "tags": [
+    "react.identification",
+    "react.ra2104",
+    "react.ra2105",
+    "react.ra2106",
+    "react.ra2312"
+  ],
   "url": "https://github.com/TheHive-Project/Cortex-Analyzers",
   "license": "AGPL-V3",
   "description": "Query AlienVault OTX for IPs, domains, URLs, or file hashes.",

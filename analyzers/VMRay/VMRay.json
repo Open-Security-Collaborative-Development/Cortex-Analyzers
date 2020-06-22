@@ -2,6 +2,16 @@
   "name": "VMRay",
   "license": "AGPL-V3",
   "author": "Nils Kuhnert, CERT-Bund",
+  "tags": [
+    "react.identification",
+    "react.ra2312",
+    "react.ra2313",
+    "react.ra2314",
+    "react.ra2316",
+    "react.ra2317",
+    "react.ra2319",
+    "react.ra2318"
+  ],
   "url": "https://github.com/BSI-CERT-Bund/cortex-analyzers",
   "version": "3.0",
   "description": "VMRay Sandbox file analysis.",

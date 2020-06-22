@@ -2,6 +2,7 @@
   "name": "RecordedFuture_risk",
   "version": "1.0",
   "author": "KAPSCH-CDC",
+  "tags": [ "react.identification", "react.ra2104", "react.ra2105", "react.ra2312" ],
   "url": "https://github.com/kapschcdc/Cortex-Analyzers",
   "license": "AGPL-V3",
   "description": "Get the latest risk data from RecordedFuture for a hash, domain or an IP address.",

@@ -1,6 +1,7 @@
 {
   "name": "CyberCrime-Tracker",
   "author": "ph34tur3",
+  "tags": [ "react.identification", "react.ra2104", "react.ra2105", "react.ra2106" ],
   "license": "AGPL-V3",
   "url": "https://github.com/ph34tur3/Cortex-Analyzers",
   "version": "1.0",

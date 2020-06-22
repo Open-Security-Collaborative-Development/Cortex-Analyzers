@@ -2,6 +2,7 @@
     "name": "Hashdd_Detail",
     "version": "1.0",
     "author": "iosonogio",
+    "tags": [ "react.identification", "react.ra2312" ],
     "url": "https://github.com/TheHive-Project/Cortex-Analyzers",
     "license": "AGPLv3",
     "description": "Determine whether a hash is good or bad; if good then list what it is.",

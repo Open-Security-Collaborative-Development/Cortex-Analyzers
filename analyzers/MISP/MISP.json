@@ -1,6 +1,17 @@
 {
   "name": "MISP",
   "author": "Nils Kuhnert, CERT-Bund",
+  "tags": [
+    "react.identification",
+    "react.ra2104",
+    "react.ra2105",
+    "react.ra2106",
+    "react.ra2312",
+    "react.ra2206",
+    "react.ra2320",
+    "react.ra2508",
+    "react.ra2117"
+  ],
   "license": "AGPL-V3",
   "url": "https://github.com/BSI-CERT-Bund/cortex-analyzers",
   "version": "2.1",

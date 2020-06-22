@@ -2,6 +2,7 @@
   "name": "DomainToolsIris_Investigate",
   "version": "1.0",
   "author": "DomainTools",
+  "tags": [ "react.identification", "react.ra2104" ],
   "url": "https://github.com/TheHive-Project/Cortex-Analyzers",
   "license": "AGPL-V3",
   "description": "Use DomainTools Iris API to investigate a domain.",

@@ -2,6 +2,7 @@
   "name": "DShield_lookup",
   "version": "1.0",
   "author": "Xavier Xavier, SANS ISC",
+  "tags": [ "react.identification", "react.ra2105" ],
   "url": "https://github.com/xme/thehive/Cortex-Analyzers",
   "license": "AGPL-V3",
   "description": "Query the SANS ISC DShield API to check for an IP address reputation.",

@@ -2,6 +2,7 @@
   "name": "Hipposcore",
   "version": "2.0",
   "author": "CERT-BDF",
+  "tags": [ "react.identification", "react.ra2104", "react.ra2105", "react.ra2106" ],
   "url": "https://github.com/TheHive-Project/Cortex-Analyzers",
   "license": "AGPL-V3",
   "description": "Get the Hippocampe Score report associated with an IP address, a domain or a URL.",

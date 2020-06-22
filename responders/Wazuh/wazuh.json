@@ -2,6 +2,11 @@
   "name": "Wazuh",
   "version": "1.0",
   "author": "Wes Lambert",
+  "tags": [
+    "react.containment",
+    "react.ra3101",
+    "react.ra3102"
+  ],
   "url": "https://github.com/TheHive-Project/Cortex-Analyzers",
   "license": "AGPL-V3",
   "description": "Block an IP on a host via Wazuh agent",

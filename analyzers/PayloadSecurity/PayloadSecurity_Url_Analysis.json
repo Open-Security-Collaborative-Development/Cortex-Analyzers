@@ -2,6 +2,7 @@
   "name": "PayloadSecurity_Url_Analysis",
   "version": "1.0",
   "author": "Emmanuel Torquato",
+  "tags": [ "react.identification", "react.ra2106" ],
   "url": "https://github.com/notset/Cortex-Analyzers",
   "license": "AGPL-V3",
   "description": "PayloadSecurity Sandbox Url Analysis",

@@ -2,6 +2,7 @@
   "name": "SecurityTrails_Passive_DNS",
   "version": "1.0",
   "author": "Manabu Niseki, @ninoseki",
+  "tags": [ "react.identification", "react.ra2105" ],
   "url": "https://github.com/ninoseki/cortex-securitytrails",
   "license": "MIT",
   "description": "SecurityTrails Passive DNS Lookup.",

@@ -2,6 +2,13 @@
   "name": "Maltiverse_Report",
   "version": "1.0",
   "author": "ottimo",
+  "tags": [
+    "react.identification",
+    "react.ra2104",
+    "react.ra2105",
+    "react.ra2106",
+    "react.ra2312"
+  ],
   "url": "https://github.com/TheHive-Project/Cortex-Analyzers",
   "license": "AGPL-V3",
   "description": "Get the latest Maltiverse report for an hash, domain or an IP address.",

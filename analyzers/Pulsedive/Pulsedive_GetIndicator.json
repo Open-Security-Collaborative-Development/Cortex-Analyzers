@@ -2,6 +2,13 @@
     "name": "Pulsedive_GetIndicator",
     "version": "1.0",
     "author": "Nils Kuhnert",
+    "tags": [
+      "react.identification",
+      "react.ra2104",
+      "react.ra2105",
+      "react.ra2106",
+      "react.ra2312"
+    ],
     "url": "https://github.com/TheHive-Project/Cortex-Analyzers",
     "license": "AGPL-V3",
     "description": "Search Pulsedive.com for a giver domain name, hash, ip or url",

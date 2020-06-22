@@ -2,6 +2,7 @@
   "name": "EmergingThreats_IPInfo",
   "version": "1.0",
   "author": "Davide Arcuri and Andrea Garavaglia, LDO-CERT",
+  "tags": [ "react.identification", "react.ra2105" ],
   "url": "https://github.com/dadokkio/Cortex-Analyzers",
   "license": "AGPL-V3",
   "description": "Retrieve ET reputation, related malware, and IDS requests for a given IP address.",

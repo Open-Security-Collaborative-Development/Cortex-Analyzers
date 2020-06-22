@@ -2,6 +2,13 @@
   "name": "FileInfo",
   "version": "7.0",
   "author": "TheHive-Project",
+  "tags": [
+    "react.identification",
+    "react.ra2313",
+    "react.ra2316",
+    "react.ra2317",
+    "react.ra2318"
+  ],
   "url": "https://github.com/TheHive-Project/Cortex-Analyzers",
   "license": "AGPL-V3",
   "description": "Parse files in several formats such as OLE and OpenXML to detect VBA macros, extract their source code, generate useful information on PE, PDF files...",

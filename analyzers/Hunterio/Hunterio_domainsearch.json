@@ -1,6 +1,7 @@
 {
     "name": "Hunterio_DomainSearch",
     "author": "Rémi Allain, Cyberprotect",
+    "tags": [ "react.identification", "react.ra2104" ],
     "license": "AGPL-V3",
     "url": "https://github.com/Cyberprotect/Cortex-Analyzers",
     "version": "1.0",

@@ -2,6 +2,13 @@
   "name": "Abuse_Finder",
   "version": "3.0",
   "author": "CERT-BDF",
+  "tags": [
+    "react.identification",
+    "react.ra2104",
+    "react.ra2105",
+    "react.ra2206",
+    "react.ra2106"
+  ],
   "url": "https://github.com/TheHive-Project/Cortex-Analyzers",
   "license": "AGPL-V3",
   "description": "Find abuse contacts associated with domain names, URLs, IPs and email addresses.",

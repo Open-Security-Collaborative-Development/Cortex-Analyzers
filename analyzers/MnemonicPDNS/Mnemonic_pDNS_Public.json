@@ -2,6 +2,7 @@
     "name": "Mnemonic_pDNS_Public",
     "version": "3.0",
     "author": "Michael Stensrud, Nordic Financial CERT",
+    "tags": [ "react.identification", "react.ra2104", "react.ra2105" ],
     "url": "https://passivedns.mnemonic.no/search",
     "license" : "AGPL-V3",
     "description": "Query IP addresses and domains against Mnemonic pDNS public service.",

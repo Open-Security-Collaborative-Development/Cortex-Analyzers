@@ -2,6 +2,7 @@
   "name": "Umbrella_Report",
   "version": "1.0",
   "author": "Kyle Parrish",
+  "tags": [ "react.identification", "react.ra2104" ],
   "url": "https://github.com/arnydo/thehive/Cortex-Analyzers",
   "license": "AGPL-V3",
   "description": "Query the Umbrella Reporting API for recent DNS queries and their status.",

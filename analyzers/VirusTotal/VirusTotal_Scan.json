@@ -2,6 +2,17 @@
   "name": "VirusTotal_Scan",
   "version": "3.0",
   "author": "CERT-BDF",
+  "tags": [
+    "react.identification",
+    "react.ra2106",
+    "react.ra2313",
+    "react.ra2314",
+    "react.ra2315",
+    "react.ra2316",
+    "react.ra2317",
+    "react.ra2319",
+    "react.ra2318"
+  ],
   "url": "https://github.com/TheHive-Project/Cortex-Analyzers",
   "license": "AGPL-V3",
   "description": "Use VirusTotal to scan a file or URL.",

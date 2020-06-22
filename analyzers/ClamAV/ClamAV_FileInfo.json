@@ -2,6 +2,16 @@
   "name": "ClamAV_FileInfo",
   "version": "1.1",
   "author": "Brian Laskowski",
+  "tags": [
+    "react.identification",
+    "react.ra2313",
+    "react.ra2316",
+    "react.ra2317",
+    "react.ra2318",
+    "react.ra2314",
+    "react.ra2319",
+    "react.ra2315"
+  ],
   "url": "https://github.com/Hestat/Cortex-Analyzers",
   "license": "AGPL-V3",
   "description": "Use Clamscan with custom rules",

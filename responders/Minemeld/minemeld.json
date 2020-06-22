@@ -2,6 +2,12 @@
   "name": "Minemeld",
   "version": "1.0",
   "author": "Wes Lambert, Security Onion Solutions",
+  "tags": [
+    "react.identification",
+    "react.ra2104",
+    "react.ra2105",
+    "react.ra2106"
+  ],
   "url": "https://github.com/TheHive-Project/Cortex-Analyzers",
   "license": "AGPL-V3",
   "description": "Submit indicator to Minemeld",

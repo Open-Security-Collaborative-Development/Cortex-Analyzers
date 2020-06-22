@@ -1,6 +1,13 @@
 {
   "name": "NSRL",
   "author": "Andrea Garavaglia, Davide Arcuri - LDO-CERT",
+  "tags": [
+    "react.identification",
+    "react.ra2313",
+    "react.ra2314",
+    "react.ra2320",
+    "react.ra2315"
+  ],
   "license": "AGPL-V3",
   "url": "https://github.com/TheHive-Project/Cortex-Analyzers",
   "version": "1.0",

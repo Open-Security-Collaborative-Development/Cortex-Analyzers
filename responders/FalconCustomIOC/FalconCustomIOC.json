@@ -2,6 +2,13 @@
   "name": "Crowdstrike Falcon Custom IOC API",
   "version": "1.0",
   "author": "Michael",
+  "tags": [
+    "react.identification",
+    "react.ra2104",
+    "react.ra2105",
+    "react.ra2106",
+    "react.ra2312"
+  ],
   "url": "https://www.crowdstrike.com/blog/tech-center/import-iocs-crowdstrike-falcon-host-platform-via-api/",
   "license": "MIT",
   "description": "Submit observables to the Crowdstrike Falcon Custom IOC api",

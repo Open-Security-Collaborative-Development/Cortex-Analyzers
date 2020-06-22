@@ -2,6 +2,7 @@
   "name": "Shodan_DNSResolve",
   "version": "1.0",
   "author": "ANSSI",
+  "tags": [ "react.identification", "react.ra2104" ],
   "url": "https://github.com/TheHive-Project/Cortex-Analyzers/Shodan",
   "license": "AGPL-V3",
   "description": "Retrieve domain resolutions on Shodan.",

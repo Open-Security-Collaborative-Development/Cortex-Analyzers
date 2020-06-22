@@ -2,6 +2,7 @@
   "name": "Investigate_Categorization",
   "version": "1.0",
   "author": "Cisco Umbrella Research @opendns",
+  "tags": [ "react.identification", "react.ra2104" ],
   "url": "https://github.com/TheHive-Project/Cortex-Analyzers/Investigate",
   "license": "AGPL-V3",
   "description": "Retrieve Investigate categorization and security features for a domain.",

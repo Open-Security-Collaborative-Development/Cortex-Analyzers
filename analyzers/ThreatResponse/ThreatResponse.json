@@ -2,6 +2,14 @@
   "name": "ThreatResponse",
   "license": "MIT",
   "author": "Cisco Security",
+  "tags": [
+    "react.identification",
+    "react.ra2104",
+    "react.ra2105",
+    "react.ra2106",
+    "react.ra2320",
+    "react.ra2312"
+  ],
   "url": "https://github.com/CiscoSecurity",
   "version": "1.0",
   "description": "Threat Response",

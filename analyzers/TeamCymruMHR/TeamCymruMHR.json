@@ -2,6 +2,7 @@
     "name": "TeamCymruMHR",
     "version": "1.0",
     "author": "Wes Lambert",
+    "tags": [ "react.identification", "react.ra2312" ],
     "url": "https://github.com/TheHive-Project/Cortex-Analyzers",
     "license": "AGPL-V3",
     "description": "Submit hash to Team Cymru's Malware Hash Registry",

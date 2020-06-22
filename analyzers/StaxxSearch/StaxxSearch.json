@@ -1,6 +1,14 @@
 {
     "name": "StaxxSearch",
     "author": "Robert Nixon",
+    "tags": [
+      "react.identification",
+      "react.ra2104",
+      "react.ra2105",
+      "react.ra2312",
+      "react.ra2206",
+      "react.ra2106"
+    ],
     "license": "AGPL-V3",
     "url": "https://github.com/robertnixon2003/Cortex-Analyzers",
     "version": "1.0",

@@ -2,6 +2,7 @@
     "name": "GreyNoise",
     "version": "2.3",
     "author": "Nclose",
+    "tags": [ "react.identification", "react.ra2105" ],
     "url": "https://github.com/TheHive-Project/Cortex-Analyzers",
     "license": "APLv2",
     "description": "Determine whether an IP has known scanning activity using GreyNoise.",

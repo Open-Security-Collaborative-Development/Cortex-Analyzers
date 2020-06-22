@@ -2,6 +2,7 @@
   "name": "DNSDB_DomainName",
   "version": "2.0",
   "author": "CERT-BDF",
+  "tags": [ "react.identification", "react.ra2104" ],
   "url": "https://github.com/TheHive-Project/Cortex-Analyzers",
   "license": "AGPL-V3",
   "description": "Use DNSDB to fetch historical records for a domain.",

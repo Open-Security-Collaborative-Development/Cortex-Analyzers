@@ -1,6 +1,13 @@
 {
   "name": "URLhaus",
   "author": "ninoseki, Nils Kuhnert",
+  "tags": [
+    "react.identification",
+    "react.ra2104",
+    "react.ra2105",
+    "react.ra2106",
+    "react.ra2312"
+  ],
   "license": "MIT",
   "url": "https://github.com/ninoseki/cortex_URLhaus_analyzer",
   "version": "2.0",

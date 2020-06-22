@@ -2,6 +2,7 @@
   "name": "Robtex_Reverse_PDNS_Query",
   "version": "1.0",
   "author": "Nils Kuhnert",
+  "tags": [ "react.identification", "react.ra2105" ],
   "url": "https://github.com/TheHive-Project/Cortex-Analyzers",
   "license": "AGPL-V3",
   "description": "Check IPs using the Robtex reverse passive DNS API.",

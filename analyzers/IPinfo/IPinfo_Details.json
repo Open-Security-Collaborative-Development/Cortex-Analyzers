@@ -2,6 +2,7 @@
   "name": "IPinfo_Details",
   "version": "1.0",
   "author": "Manabu Niseki",
+  "tags": [ "react.identification", "react.ra2105" ],
   "url": "https://github.com/ninoseki/ipinfo-analyzers",
   "license": "MIT",
   "description": "IPinfo details lookup.",

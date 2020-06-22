@@ -2,6 +2,7 @@
     "name": "PhishingInitiative_Scan",
     "version": "1.0",
     "author": "Remi Pointel",
+    "tags": [ "react.identification", "react.ra2106" ],
     "url": "https://github.com/TheHive-Project/Cortex-Analyzers",
     "license": "AGPL-V3",
     "description": "Use Phishing Initiative to scan a URL.",

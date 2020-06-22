@@ -2,6 +2,16 @@
   "name": "JoeSandbox_File_Analysis_Noinet",
   "version": "2.0",
   "author": "CERT-BDF",
+  "tags": [
+    "react.identification",
+    "react.ra2313",
+    "react.ra2316",
+    "react.ra2317",
+    "react.ra2318",
+    "react.ra2314",
+    "react.ra2319",
+    "react.ra2315"
+  ],
   "url": "https://github.com/TheHive-Project/Cortex-Analyzers",
   "license": "AGPL-V3",
   "description": "Joe Sandbox file analysis without Internet access.",

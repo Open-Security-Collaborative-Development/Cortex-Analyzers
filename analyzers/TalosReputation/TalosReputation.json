@@ -2,6 +2,7 @@
   "name": "TalosReputation",
   "version": "1.0",
   "author": "Gabriel Antonio da Silva",
+  "tags": [ "react.identification", "react.ra2105" ],
   "url": "https://github.com/TheHive-Project/Cortex-Analyzers",
   "license": "AGPL-V3",
   "description": "Get the Talos IP reputation",

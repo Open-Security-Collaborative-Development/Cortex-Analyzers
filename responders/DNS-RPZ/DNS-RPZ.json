@@ -2,6 +2,11 @@
   "name": "DNS-RPZ",
   "version": "1.0",
   "author": "Michael Hornung; Expeditors International of Washington, Inc.",
+  "tags": [
+    "react.containment",
+    "react.ra3103",
+    "react.ra3104"
+  ],
   "url": "https://github.com/TheHive-Project/Cortex-Analyzers",
   "license": "AGPL-V3",
   "description": "Add a dynamic DNS entry to a Response Policy Zone, blackholing or redirecting a FQDN.",

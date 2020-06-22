@@ -2,6 +2,10 @@
   "name": "AMPforEndpoints_IsolationStop",
   "version": "1.0",
   "author": "Cisco Security",
+  "tags": [
+    "react.recovery",
+    "react.ra5101"
+  ],
   "url": "https://github.com/CiscoSecurity",
   "license": "MIT",
   "description": "Stop host isolation for an AMP for Endpoints connector",

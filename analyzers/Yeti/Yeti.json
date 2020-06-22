@@ -1,6 +1,13 @@
 {
   "name": "Yeti",
   "author": "CERT-BDF",
+  "tags": [
+    "react.identification",
+    "react.ra2104",
+    "react.ra2105",
+    "react.ra2106",
+    "react.ra2312"
+  ],
   "license": "AGPL-V3",
   "url": "https://github.com/CERT/cortex-analyzers",
   "version": "1.0",

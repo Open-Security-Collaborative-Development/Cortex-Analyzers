@@ -1,6 +1,7 @@
 {
   "name": "Virusshare",
   "author": "Nils Kuhnert, CERT-Bund",
+  "tags": [ "react.identification", "react.ra2312" ],
   "license": "AGPL-V3",
   "url": "https://github.com/BSI-CERT-Bund/cortex-analyzers",
   "version": "2.0",

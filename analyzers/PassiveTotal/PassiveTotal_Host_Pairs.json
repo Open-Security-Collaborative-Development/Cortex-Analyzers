@@ -2,6 +2,7 @@
   "name": "PassiveTotal_Host_Pairs",
   "version": "2.0",
   "author": "Brandon Dixon (9bplus)",
+  "tags": [ "react.identification", "react.ra2104", "react.ra2105" ],
   "url": "https://github.com/TheHive-Project/Cortex-Analyzers",
   "license": "AGPL-V3",
   "description": "PassiveTotal Host Pairs Lookup.",

@@ -2,6 +2,13 @@
   "name": "IBMXForce_Lookup",
   "version": "1.0",
   "author": "Davide Arcuri and Andrea Garavaglia, LDO-CERT",
+  "tags": [
+    "react.identification",
+    "react.ra2104",
+    "react.ra2105",
+    "react.ra2106",
+    "react.ra2312"
+  ],
   "url": "https://github.com/LDO-CERT/Cortex-Analyzers",
   "license": "AGPL-V3",
   "description": "Query domains, IPs, hashes and URLs against IBM X-Force threat intelligence sharing platform.",

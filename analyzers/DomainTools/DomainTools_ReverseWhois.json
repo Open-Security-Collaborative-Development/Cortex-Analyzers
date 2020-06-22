@@ -2,6 +2,7 @@
   "name": "DomainTools_ReverseWhois",
   "version": "2.0",
   "author": "CERT-BDF",
+  "tags": [ "react.identification", "react.ra2104", "react.ra2206", "react.ra2105" ],
   "url": "https://github.com/TheHive-Project/Cortex-Analyzers",
   "license": "AGPL-V3",
   "description": "Use DomainTools to get a list of domain names which share the same registrant information.",

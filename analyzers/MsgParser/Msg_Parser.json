@@ -2,6 +2,10 @@
   "name": "Msg_Parser",
   "version": "3.0",
   "author": "CERT-BDF",
+  "tags": [
+    "react.identification",
+    "react.ra2205",
+  ],
   "url": "https://github.com/TheHive-Project/Cortex-Analyzers",
   "license": "AGPL-V3",
   "description": "Parse Outlook MSG files and extract the main artifacts.",

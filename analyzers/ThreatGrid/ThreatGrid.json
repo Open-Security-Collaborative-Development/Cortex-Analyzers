@@ -2,6 +2,15 @@
   "name": "ThreatGrid",
   "license": "MIT",
   "author": "Cisco Security",
+  "tags": [
+    "react.identification",
+    "react.ra2312",
+    "react.ra2106",
+    "react.ra2313",
+    "react.ra2316",
+    "react.ra2317",
+    "react.ra2318"
+  ],
   "url": "https://github.com/CiscoSecurity",
   "version": "1.0",
   "description": "Threat Grid Sandbox",

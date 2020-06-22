@@ -2,6 +2,7 @@
   "name": "Robtex_Forward_PDNS_Query",
   "version": "1.0",
   "author": "Nils Kuhnert",
+  "tags": [ "react.identification", "react.ra2104" ],
   "url": "https://github.com/TheHive-Project/Cortex-Analyzers",
   "license": "AGPL-V3",
   "description": "Check domains and FQDNs using the Robtex passive DNS API.",
